@@ -1,6 +1,6 @@
 {
-  "version": "3.41",
-  "notes": "Fixes reversing a move so offloaded folders restore correctly, opens a folder’s Space Map when you pick it, and shows on the main page when a scan is running. Adds a quiet sidebar line showing which licence this copy is registered to, lets you renew straight from the app, and rolls up a broad round of security and reliability hardening.",
+  "version": "3.42",
+  "notes": "Restores offloaded folders correctly when you reverse a move, opens a folder’s Space Map when you pick it, shows on the main page when a scan is running, and shows which licence this copy is registered to. Adds a round of security and reliability hardening — including stronger safety checks in the privileged helper that moves and restores protected files — with no change to how you use the app.",
   "notes_url": "https://www.pangalin.com/space-manager/",
   "download_url": "https://www.pangalin.com/download/space-manager/"
 }
