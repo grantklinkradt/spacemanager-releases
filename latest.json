@@ -1,6 +1,6 @@
 {
-  "version": "3.40",
-  "notes": "Private beta. Not yet notarized — right-click the app and choose Open on first launch.",
-  "notes_url": "https://github.com/grantklinkradt/spacemanager-releases/releases",
-  "download_url": "https://github.com/grantklinkradt/spacemanager-releases/releases/latest"
+  "version": "3.41",
+  "notes": "Fixes reversing a move so offloaded folders restore correctly, opens a folder’s Space Map when you pick it, and shows on the main page when a scan is running. Adds a quiet sidebar line showing which licence this copy is registered to, lets you renew straight from the app, and rolls up a broad round of security and reliability hardening.",
+  "notes_url": "https://www.pangalin.com/space-manager/",
+  "download_url": "https://www.pangalin.com/download/space-manager/"
 }
