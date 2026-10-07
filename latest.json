@@ -1,6 +1,7 @@
 {
-  "version": "3.42",
-  "notes": "Restores offloaded folders correctly when you reverse a move, opens a folder’s Space Map when you pick it, shows on the main page when a scan is running, and shows which licence this copy is registered to. Adds a round of security and reliability hardening — including stronger safety checks in the privileged helper that moves and restores protected files — with no change to how you use the app.",
-  "notes_url": "https://www.pangalin.com/space-manager/",
-  "download_url": "https://www.pangalin.com/download/space-manager/"
+  "version": "3.45.0",
+  "notes": "Setup is one quick step: Space Manager opens Full Disk Access for you and carries on by itself once it's on. Shrink now really compresses on current macOS and can be undone, moves check the drive's format, caches of open apps are left alone, and an expired licence goes back to the free version.",
+  "notes_url": "https://www.pangalin.com/space-manager/whats-new/#v3-45-0",
+  "download_url": "https://www.pangalin.com/download/space-manager/",
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.45.0-859.dmg"
 }
