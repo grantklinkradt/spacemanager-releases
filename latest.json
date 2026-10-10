@@ -1,7 +1,7 @@
 {
-  "version": "3.45.1",
-  "notes": "Click “by Pangalin” in the sidebar for a little about us, with links to Pangalin Uninstaller (now free), Kala’s arcade and our website. Updated Licence Terms and Privacy Notice (2026-10-10); Space Manager’s own terms are unchanged.",
-  "notes_url": "https://www.pangalin.com/space-manager/whats-new/#v3-45-1",
+  "version": "3.47.0",
+  "notes": "Ready for macOS 27. New: a Never Clean list, System Data explained, an AI model library, a full startup manager, automatic moves to your drive when space runs low (off until you switch them on), a Mac health check, a space forecast and Preview only mode.",
+  "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.45.1.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.47.0.dmg"
 }
