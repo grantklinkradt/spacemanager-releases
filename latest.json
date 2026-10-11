@@ -1,7 +1,7 @@
 {
-  "version": "3.47.0",
-  "notes": "Ready for macOS 27. New: a Never Clean list, System Data explained, an AI model library, a full startup manager, automatic moves to your drive when space runs low (off until you switch them on), a Mac health check, a space forecast and Preview only mode.",
+  "version": "3.47.1",
+  "notes": "Apps now has a details panel on the right, developer groups, batch uninstall and a Startup tab with the full startup manager. Leftovers ticks nothing for you, never offers data installed software still uses, and reports anything it couldn't clean.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.47.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.47.1.dmg"
 }
