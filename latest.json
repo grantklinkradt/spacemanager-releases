@@ -1,7 +1,7 @@
 {
-  "version": "3.48.0",
-  "notes": "Space Manager is now called Pangalin Space Manager. Nothing else changes: your settings, history, licence, permissions and Space Watch carry over, and the app updates in place.",
+  "version": "3.48.1",
+  "notes": "Bringing a single moved file back from History works again, and a move now tells you first when it would free much less than its size.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.48.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.48.1.dmg"
 }
