@@ -1,7 +1,7 @@
 {
-  "version": "3.50.0",
-  "notes": "Everything Pangalin Uninstaller does is now in Pangalin Space Manager: uninstalls search the Mac-wide /Library and hidden home folders, Leftovers shows what each removed app left and why, and the new AI Model Library moves, merges and brings back AI models. Plus Pangalin green throughout.",
+  "version": "3.50.1",
+  "notes": "The clean-up report's File locations option shows again, and the terms say exactly which AI model stores move whole.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.50.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.50.1.dmg"
 }
