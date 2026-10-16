@@ -1,7 +1,7 @@
 {
-  "version": "3.50.1",
-  "notes": "The clean-up report's File locations option shows again, and the terms say exactly which AI model stores move whole.",
+  "version": "3.51.0",
+  "notes": "Developer projects now finds build folders from more languages and more developer caches, with four new Janitors. Startup items have an on/off switch, and if the app ever crashes it offers to send us the report, only if you choose to.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.50.1.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.51.0.dmg"
 }
