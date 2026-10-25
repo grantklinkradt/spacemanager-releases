@@ -1,7 +1,7 @@
 {
-  "version": "3.52.0",
-  "notes": "Put back anything you removed in the last 7 days, even after quitting, while it's still in the Trash: Recently Removed is on the Apps page and in History. Every finding now shows Safe, Review or Protected, and Blender and Cinema 4D caches are found. The terms are updated (2026-10-23).",
+  "version": "3.52.1",
+  "notes": "A likely cause of a crash during scans is fixed, and after a crash the offer to send the report now appears as a banner at the top of the window, where it stays until you choose, and says so when it has been sent.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.1.dmg"
 }
