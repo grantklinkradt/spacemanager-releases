@@ -1,7 +1,7 @@
 {
-  "version": "3.52.4",
-  "notes": "Space Watch now records each warning it sends in History, and the free-space floor uses the same free-space figure everywhere. The terms are updated (2026-10-25.2).",
+  "version": "3.53.0",
+  "notes": "Now in German, French and Spanish. Crypto wallets are protected, every file in an uninstall review says whose it is, and old Claude Code versions, old AI conversations and leftover worktrees can be cleared. Start from Finder (right-click › Services) or by dropping an app or folder on the Dock icon.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.4.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.53.0.dmg"
 }
