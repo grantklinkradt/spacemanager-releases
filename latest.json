@@ -1,7 +1,7 @@
 {
-  "version": "3.52.2",
-  "notes": "The clean-up review now says clearly which caches are cleared for good and what goes to the Trash, and the result says the same: caches “cleared”, everything else “moved to the Trash”.",
+  "version": "3.52.3",
+  "notes": "Updated terms (2026-10-25): the Privacy Notice no longer names a person, and the Licence Terms say plainly that cache contents are cleared in place and can't be put back, as the clean-up review already shows. Nothing else changes.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.2.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.3.dmg"
 }
