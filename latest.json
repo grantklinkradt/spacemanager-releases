@@ -1,7 +1,7 @@
 {
-  "version": "3.52.1",
-  "notes": "A likely cause of a crash during scans is fixed, and after a crash the offer to send the report now appears as a banner at the top of the window, where it stays until you choose, and says so when it has been sent.",
+  "version": "3.52.2",
+  "notes": "The clean-up review now says clearly which caches are cleared for good and what goes to the Trash, and the result says the same: caches “cleared”, everything else “moved to the Trash”.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.1.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.2.dmg"
 }
