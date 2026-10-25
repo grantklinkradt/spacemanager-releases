@@ -1,7 +1,7 @@
 {
-  "version": "3.52.3",
-  "notes": "Updated terms (2026-10-25): the Privacy Notice no longer names a person, and the Licence Terms say plainly that cache contents are cleared in place and can't be put back, as the clean-up review already shows. Nothing else changes.",
+  "version": "3.52.4",
+  "notes": "Space Watch now records each warning it sends in History, and the free-space floor uses the same free-space figure everywhere. The terms are updated (2026-10-25.2).",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.3.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.52.4.dmg"
 }
