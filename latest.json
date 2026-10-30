@@ -1,7 +1,7 @@
 {
-  "version": "3.53.0",
-  "notes": "Now in German, French and Spanish. Crypto wallets are protected, every file in an uninstall review says whose it is, and old Claude Code versions, old AI conversations and leftover worktrees can be cleared. Start from Finder (right-click › Services) or by dropping an app or folder on the Dock icon.",
+  "version": "3.54.0",
+  "notes": "See where your space went over time, clear old project folders by age and lockfile, and remove Docker, simulator and Homebrew parts one by one. Similar videos join similar photos, removed items can come back with Finder's Put Back, caches now go to the Trash, and AI agents can propose a clean-up for you to confirm. The terms are updated (2026-10-30).",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.53.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.54.0.dmg"
 }
