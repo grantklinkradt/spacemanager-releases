@@ -1,7 +1,7 @@
 {
-  "version": "3.54.0",
-  "notes": "See where your space went over time, clear old project folders by age and lockfile, and remove Docker, simulator and Homebrew parts one by one. Similar videos join similar photos, removed items can come back with Finder's Put Back, caches now go to the Trash, and AI agents can propose a clean-up for you to confirm. The terms are updated (2026-10-30).",
+  "version": "3.55.0",
+  "notes": "Connect Claude Code, Claude Desktop, Cursor or Codex in one click, and agents now use the scan for disk-space questions. More developer tools listed part by part, Put Back after uninstalling, where each Ollama model came from, package caches checked version by version, and Spotlight's app index explained. The terms are updated (2026-10-31).",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.54.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.55.0.dmg"
 }
