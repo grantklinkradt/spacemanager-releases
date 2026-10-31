@@ -1,7 +1,7 @@
 {
-  "version": "3.55.0",
-  "notes": "Connect Claude Code, Claude Desktop, Cursor or Codex in one click, and agents now use the scan for disk-space questions. More developer tools listed part by part, Put Back after uninstalling, where each Ollama model came from, package caches checked version by version, and Spotlight's app index explained. The terms are updated (2026-10-31).",
+  "version": "3.56.0",
+  "notes": "Important safety and security fixes: one check now guards every clean, and a scan can no longer be tricked into running commands from a hostile project folder. New: Ask Kala, a chat about your disk with the model you choose. Plain wording on every screen. The terms are updated (2026-11-01).",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.55.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.56.0.dmg"
 }
