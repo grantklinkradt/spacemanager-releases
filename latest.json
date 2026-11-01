@@ -1,7 +1,7 @@
 {
-  "version": "3.56.1",
-  "notes": "Undo, Put Back and Move back now return what they used of your free 5 GB. Plus security fixes behind the scenes.",
+  "version": "3.56.2",
+  "notes": "Fixes a crash on the Dashboard on some early test versions of macOS 27.2.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.56.1.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.56.2.dmg"
 }
