@@ -1,7 +1,7 @@
 {
-  "version": "3.57.0",
-  "notes": "Remove several apps from one review, even if they're open, and see plainly if anything is still running afterwards. Updated licence terms (2026-11-02).",
+  "version": "3.57.1",
+  "notes": "Finds more of what apps leave behind, and a batch now tells you if anything stayed.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.57.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.57.1.dmg"
 }
