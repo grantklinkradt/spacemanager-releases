@@ -1,7 +1,7 @@
 {
-  "version": "3.58.0",
-  "notes": "Set up the helper on first run, Undo for apps macOS owns, and moves keep your tags and dates.",
+  "version": "3.58.1",
+  "notes": "Virtual machines get their own place, with what removing each one really frees.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.58.0.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.58.1.dmg"
 }
