@@ -1,7 +1,7 @@
 {
-  "version": "3.58.2",
-  "notes": "Virtual machines get their own place, with what each frees and when you last used it.",
+  "version": "3.58.3",
+  "notes": "Space Manager no longer mistakes its own installer disk for a second copy.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.58.2.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.58.3.dmg"
 }
