@@ -1,7 +1,7 @@
 {
-  "version": "3.58.4",
-  "notes": "Every note and message is now in German, French and Spanish too.",
+  "version": "3.58.5",
+  "notes": "No more “install developer tools” message on Macs without Xcode.",
   "notes_url": "https://www.pangalin.com/space-manager/#new",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.58.4.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.58.5.dmg"
 }
