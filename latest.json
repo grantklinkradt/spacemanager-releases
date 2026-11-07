@@ -1,7 +1,7 @@
 {
-  "version": "3.58.6",
-  "notes": "Fixed: with the Space Manager disk image still open, an app’s uninstall review could say another copy of it was there and leave its files unticked.",
-  "notes_url": "https://www.pangalin.com/space-manager/#new",
+  "version": "3.59.0",
+  "notes": "New: an Audio plug-ins list, and the free-limit message now shows what your own scan found.",
+  "notes_url": "https://www.pangalin.com/space-manager/whats-new/",
   "download_url": "https://www.pangalin.com/download/space-manager/",
-  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.58.6.dmg"
+  "archive_url": "https://www.pangalin.com/downloads/space-manager/SpaceManager-3.59.0.dmg"
 }
